@@ -1,0 +1,107 @@
+\contentsline {chapter}{\numberline {1}Class Index}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Class List}{1}{section.1.1}
+\contentsline {chapter}{\numberline {2}File Index}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}File List}{3}{section.2.1}
+\contentsline {chapter}{\numberline {3}Class Documentation}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}ball Class Reference}{5}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Constructor \& Destructor Documentation}{5}{subsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.1.1}ball}{5}{subsubsection.3.1.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Member Data Documentation}{5}{subsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.2.1}ball\discretionary {-}{}{}X\discretionary {-}{}{}Max}{5}{subsubsection.3.1.2.1}
+\contentsline {subsubsection}{\numberline {3.1.2.2}ball\discretionary {-}{}{}X\discretionary {-}{}{}Min}{5}{subsubsection.3.1.2.2}
+\contentsline {subsubsection}{\numberline {3.1.2.3}ball\discretionary {-}{}{}Y\discretionary {-}{}{}Max}{5}{subsubsection.3.1.2.3}
+\contentsline {subsubsection}{\numberline {3.1.2.4}ball\discretionary {-}{}{}Y\discretionary {-}{}{}Min}{6}{subsubsection.3.1.2.4}
+\contentsline {subsubsection}{\numberline {3.1.2.5}col\discretionary {-}{}{}B}{6}{subsubsection.3.1.2.5}
+\contentsline {subsubsection}{\numberline {3.1.2.6}col\discretionary {-}{}{}G}{6}{subsubsection.3.1.2.6}
+\contentsline {subsubsection}{\numberline {3.1.2.7}col\discretionary {-}{}{}R}{6}{subsubsection.3.1.2.7}
+\contentsline {subsubsection}{\numberline {3.1.2.8}index}{6}{subsubsection.3.1.2.8}
+\contentsline {subsubsection}{\numberline {3.1.2.9}is\discretionary {-}{}{}Collide}{6}{subsubsection.3.1.2.9}
+\contentsline {subsubsection}{\numberline {3.1.2.10}msgv}{6}{subsubsection.3.1.2.10}
+\contentsline {subsubsection}{\numberline {3.1.2.11}pv}{6}{subsubsection.3.1.2.11}
+\contentsline {subsubsection}{\numberline {3.1.2.12}r}{6}{subsubsection.3.1.2.12}
+\contentsline {subsubsection}{\numberline {3.1.2.13}radius}{6}{subsubsection.3.1.2.13}
+\contentsline {subsubsection}{\numberline {3.1.2.14}v}{6}{subsubsection.3.1.2.14}
+\contentsline {section}{\numberline {3.2}vec Class Reference}{6}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Constructor \& Destructor Documentation}{6}{subsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.1.1}vec}{6}{subsubsection.3.2.1.1}
+\contentsline {subsection}{\numberline {3.2.2}Member Function Documentation}{6}{subsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.1}add}{7}{subsubsection.3.2.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2.2}dist}{7}{subsubsection.3.2.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.3}dot}{7}{subsubsection.3.2.2.3}
+\contentsline {subsubsection}{\numberline {3.2.2.4}length}{7}{subsubsection.3.2.2.4}
+\contentsline {subsubsection}{\numberline {3.2.2.5}scale}{7}{subsubsection.3.2.2.5}
+\contentsline {subsubsection}{\numberline {3.2.2.6}subtract}{7}{subsubsection.3.2.2.6}
+\contentsline {subsection}{\numberline {3.2.3}Member Data Documentation}{7}{subsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.3.1}x\discretionary {-}{}{}Coordinate}{7}{subsubsection.3.2.3.1}
+\contentsline {subsubsection}{\numberline {3.2.3.2}y\discretionary {-}{}{}Coordinate}{7}{subsubsection.3.2.3.2}
+\contentsline {section}{\numberline {3.3}window Class Reference}{7}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Constructor \& Destructor Documentation}{7}{subsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.1.1}window}{7}{subsubsection.3.3.1.1}
+\contentsline {subsection}{\numberline {3.3.2}Member Function Documentation}{7}{subsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.2.1}init\discretionary {-}{}{}Window}{7}{subsubsection.3.3.2.1}
+\contentsline {subsubsection}{\numberline {3.3.2.2}reshape\discretionary {-}{}{}Window}{7}{subsubsection.3.3.2.2}
+\contentsline {subsection}{\numberline {3.3.3}Member Data Documentation}{7}{subsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.3.1}title}{8}{subsubsection.3.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.3.2}window\discretionary {-}{}{}Height}{8}{subsubsection.3.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3.3}window\discretionary {-}{}{}Pos\discretionary {-}{}{}X}{8}{subsubsection.3.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.3.4}window\discretionary {-}{}{}Pos\discretionary {-}{}{}Y}{8}{subsubsection.3.3.3.4}
+\contentsline {subsubsection}{\numberline {3.3.3.5}window\discretionary {-}{}{}Width}{8}{subsubsection.3.3.3.5}
+\contentsline {chapter}{\numberline {4}File Documentation}{9}{chapter.4}
+\contentsline {section}{\numberline {4.1}ball.\discretionary {-}{}{}cpp File Reference}{9}{section.4.1}
+\contentsline {section}{\numberline {4.2}ball.\discretionary {-}{}{}h File Reference}{9}{section.4.2}
+\contentsline {section}{\numberline {4.3}gui.\discretionary {-}{}{}cpp File Reference}{10}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Macro Definition Documentation}{10}{subsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.1.1}P\discretionary {-}{}{}I}{10}{subsubsection.4.3.1.1}
+\contentsline {subsection}{\numberline {4.3.2}Function Documentation}{10}{subsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.2.1}Draw\discretionary {-}{}{}Circle}{10}{subsubsection.4.3.2.1}
+\contentsline {subsubsection}{\numberline {4.3.2.2}init\discretionary {-}{}{}G\discretionary {-}{}{}L}{10}{subsubsection.4.3.2.2}
+\contentsline {subsection}{\numberline {4.3.3}Variable Documentation}{10}{subsection.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.3.1}angle}{10}{subsubsection.4.3.3.1}
+\contentsline {section}{\numberline {4.4}gui.\discretionary {-}{}{}h File Reference}{11}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Function Documentation}{11}{subsection.4.4.1}
+\contentsline {subsubsection}{\numberline {4.4.1.1}Draw\discretionary {-}{}{}Circle}{11}{subsubsection.4.4.1.1}
+\contentsline {subsubsection}{\numberline {4.4.1.2}init\discretionary {-}{}{}G\discretionary {-}{}{}L}{11}{subsubsection.4.4.1.2}
+\contentsline {section}{\numberline {4.5}main.\discretionary {-}{}{}cpp File Reference}{11}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Function Documentation}{12}{subsection.4.5.1}
+\contentsline {subsubsection}{\numberline {4.5.1.1}aspect\discretionary {-}{}{}Ratio}{12}{subsubsection.4.5.1.1}
+\contentsline {subsubsection}{\numberline {4.5.1.2}display}{12}{subsubsection.4.5.1.2}
+\contentsline {subsubsection}{\numberline {4.5.1.3}display\discretionary {-}{}{}Text}{12}{subsubsection.4.5.1.3}
+\contentsline {subsubsection}{\numberline {4.5.1.4}fun}{12}{subsubsection.4.5.1.4}
+\contentsline {subsubsection}{\numberline {4.5.1.5}init\discretionary {-}{}{}Balls}{12}{subsubsection.4.5.1.5}
+\contentsline {subsubsection}{\numberline {4.5.1.6}keypress}{12}{subsubsection.4.5.1.6}
+\contentsline {subsubsection}{\numberline {4.5.1.7}main}{12}{subsubsection.4.5.1.7}
+\contentsline {subsubsection}{\numberline {4.5.1.8}mouse}{12}{subsubsection.4.5.1.8}
+\contentsline {subsubsection}{\numberline {4.5.1.9}reshape}{12}{subsubsection.4.5.1.9}
+\contentsline {subsubsection}{\numberline {4.5.1.10}Timer}{12}{subsubsection.4.5.1.10}
+\contentsline {subsubsection}{\numberline {4.5.1.11}update\discretionary {-}{}{}Speed}{12}{subsubsection.4.5.1.11}
+\contentsline {subsection}{\numberline {4.5.2}Variable Documentation}{12}{subsection.4.5.2}
+\contentsline {subsubsection}{\numberline {4.5.2.1}balls}{12}{subsubsection.4.5.2.1}
+\contentsline {subsubsection}{\numberline {4.5.2.2}c}{12}{subsubsection.4.5.2.2}
+\contentsline {subsubsection}{\numberline {4.5.2.3}done}{13}{subsubsection.4.5.2.3}
+\contentsline {subsubsection}{\numberline {4.5.2.4}fullscr}{13}{subsubsection.4.5.2.4}
+\contentsline {subsubsection}{\numberline {4.5.2.5}inst}{13}{subsubsection.4.5.2.5}
+\contentsline {subsubsection}{\numberline {4.5.2.6}max\discretionary {-}{}{}Radius}{13}{subsubsection.4.5.2.6}
+\contentsline {subsubsection}{\numberline {4.5.2.7}menu}{13}{subsubsection.4.5.2.7}
+\contentsline {subsubsection}{\numberline {4.5.2.8}mutex}{13}{subsubsection.4.5.2.8}
+\contentsline {subsubsection}{\numberline {4.5.2.9}my\discretionary {-}{}{}Window}{13}{subsubsection.4.5.2.9}
+\contentsline {subsubsection}{\numberline {4.5.2.10}num\discretionary {-}{}{}Balls}{13}{subsubsection.4.5.2.10}
+\contentsline {subsubsection}{\numberline {4.5.2.11}paused}{13}{subsubsection.4.5.2.11}
+\contentsline {subsubsection}{\numberline {4.5.2.12}q\discretionary {-}{}{}Message}{13}{subsubsection.4.5.2.12}
+\contentsline {subsubsection}{\numberline {4.5.2.13}q\discretionary {-}{}{}Speed}{13}{subsubsection.4.5.2.13}
+\contentsline {subsubsection}{\numberline {4.5.2.14}refresh\discretionary {-}{}{}Millis}{13}{subsubsection.4.5.2.14}
+\contentsline {subsubsection}{\numberline {4.5.2.15}threads}{13}{subsubsection.4.5.2.15}
+\contentsline {subsubsection}{\numberline {4.5.2.16}x\discretionary {-}{}{}Max}{13}{subsubsection.4.5.2.16}
+\contentsline {subsubsection}{\numberline {4.5.2.17}x\discretionary {-}{}{}Min}{13}{subsubsection.4.5.2.17}
+\contentsline {subsubsection}{\numberline {4.5.2.18}y\discretionary {-}{}{}Max}{13}{subsubsection.4.5.2.18}
+\contentsline {subsubsection}{\numberline {4.5.2.19}y\discretionary {-}{}{}Min}{13}{subsubsection.4.5.2.19}
+\contentsline {section}{\numberline {4.6}physics.\discretionary {-}{}{}cpp File Reference}{13}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Function Documentation}{14}{subsection.4.6.1}
+\contentsline {subsubsection}{\numberline {4.6.1.1}coll\discretionary {-}{}{}Balls}{14}{subsubsection.4.6.1.1}
+\contentsline {subsubsection}{\numberline {4.6.1.2}coll\discretionary {-}{}{}Wall}{14}{subsubsection.4.6.1.2}
+\contentsline {section}{\numberline {4.7}physics.\discretionary {-}{}{}h File Reference}{14}{section.4.7}
+\contentsline {subsection}{\numberline {4.7.1}Function Documentation}{14}{subsection.4.7.1}
+\contentsline {subsubsection}{\numberline {4.7.1.1}coll\discretionary {-}{}{}Balls}{14}{subsubsection.4.7.1.1}
+\contentsline {subsubsection}{\numberline {4.7.1.2}coll\discretionary {-}{}{}Wall}{14}{subsubsection.4.7.1.2}
+\contentsline {section}{\numberline {4.8}window.\discretionary {-}{}{}cpp File Reference}{14}{section.4.8}
+\contentsline {section}{\numberline {4.9}window.\discretionary {-}{}{}h File Reference}{15}{section.4.9}
+\contentsline {part}{Index}{15}{section*.17}

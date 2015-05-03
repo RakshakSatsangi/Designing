@@ -1,0 +1,236 @@
+\hypertarget{main_8cpp}{\section{main.\-cpp File Reference}
+\label{main_8cpp}\index{main.\-cpp@{main.\-cpp}}
+}
+{\ttfamily \#include $<$iostream$>$}\\*
+{\ttfamily \#include $<$stdio.\-h$>$}\\*
+{\ttfamily \#include $<$stdlib.\-h$>$}\\*
+{\ttfamily \#include $<$time.\-h$>$}\\*
+{\ttfamily \#include $<$G\-L/glut.\-h$>$}\\*
+{\ttfamily \#include $<$math.\-h$>$}\\*
+{\ttfamily \#include $<$pthread.\-h$>$}\\*
+{\ttfamily \#include $<$vector$>$}\\*
+{\ttfamily \#include $<$string$>$}\\*
+{\ttfamily \#include $<$cstring$>$}\\*
+{\ttfamily \#include \char`\"{}ball.\-h\char`\"{}}\\*
+{\ttfamily \#include \char`\"{}gui.\-h\char`\"{}}\\*
+{\ttfamily \#include \char`\"{}window.\-h\char`\"{}}\\*
+{\ttfamily \#include \char`\"{}physics.\-h\char`\"{}}\\*
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{main_8cpp_a9185159b2ed7c037acb29e7ba9bc86f5}{display\-Text} (float x, float y, float r, float g, float b, const char $\ast$string)
+\item 
+void $\ast$ \hyperlink{main_8cpp_acb263e4c79618a895891d2d30a94119c}{fun} (void $\ast$arg)
+\item 
+void \hyperlink{main_8cpp_a5eb179e09645dfb07c1de38710db0877}{update\-Speed} ()
+\item 
+void \hyperlink{main_8cpp_a1e5b20fed15743656bb6d2e6a6ea6269}{display} ()
+\item 
+void \hyperlink{main_8cpp_a089b7398d06a65661d08354b2091265a}{Timer} (int value)
+\item 
+void \hyperlink{main_8cpp_a358cd8442950f0382b04cdb0841a4e39}{keypress} (unsigned char key, int x, int y)
+\item 
+void \hyperlink{main_8cpp_a5555059d04c82c6a596d560bfbe2c0d6}{aspect\-Ratio} (G\-Lfloat width, G\-Lfloat height)
+\item 
+void \hyperlink{main_8cpp_a0447aef09d3c4464e6f8d81340f3a4b0}{reshape} (G\-Lsizei width, G\-Lsizei height)
+\item 
+void \hyperlink{main_8cpp_ac76a5d78172a826cd6ee9512b89a86c0}{mouse} (int button, int state, int x, int y)
+\item 
+void \hyperlink{main_8cpp_a50384e662606049b5c239913afa7d66e}{init\-Balls} ()
+\item 
+int \hyperlink{main_8cpp_a3c04138a5bfe5d72780bb7e82a18e627}{main} (int argc, char $\ast$$\ast$argv)
+\end{DoxyCompactItemize}
+\subsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+int \hyperlink{main_8cpp_aa43278ae0d6f40b1b2c1f25f2889b564}{num\-Balls}
+\item 
+G\-Lfloat \hyperlink{main_8cpp_a305555cd1a76d17cda7f459ccd7ef5ad}{max\-Radius} = 0.\-15f
+\item 
+int \hyperlink{main_8cpp_a436016ce2b3c775de5b9e142b5717e0a}{refresh\-Millis} = 10
+\item 
+bool \hyperlink{main_8cpp_a1656129c4a4fd8809254194f08f0ac70}{paused} =0
+\item 
+bool \hyperlink{main_8cpp_a1d39aac66e12dae50a24cd7a9100ef33}{done} =0
+\item 
+bool \hyperlink{main_8cpp_a0cc16c582fed3f969762a644b0508783}{fullscr}
+\item 
+bool \hyperlink{main_8cpp_a64881c5f5f42c13aa0deb1dc0d7a8b26}{menu} =0
+\item 
+bool \hyperlink{main_8cpp_aa82664d9803a5fd0fcc96e27af429123}{inst} =0
+\item 
+\hyperlink{classwindow}{window} $\ast$ \hyperlink{main_8cpp_a7174422b37ed89c1a985767c825a2c76}{my\-Window}
+\item 
+G\-Ldouble \hyperlink{main_8cpp_ad6366d4aac0cafadc290ce8ff0f8b4ef}{x\-Min} =-\/1.\-33f
+\item 
+G\-Ldouble \hyperlink{main_8cpp_adaab1f0becf4a2155e2bdd69ab61bb02}{x\-Max} =1.\-33f
+\item 
+G\-Ldouble \hyperlink{main_8cpp_a47449edaeffb2749183e052b5efe2553}{y\-Min} =-\/1.\-0f
+\item 
+G\-Ldouble \hyperlink{main_8cpp_a3ee38fcdfd8c59d2116bea0a2b7da32f}{y\-Max} =1.\-0f
+\item 
+pthread\-\_\-t $\ast$ \hyperlink{main_8cpp_ae3e85628d413435fbcfb27a271a41d79}{threads}
+\item 
+pthread\-\_\-mutex\-\_\-t \hyperlink{main_8cpp_a4acff8232e4aec9cd5c6dc200ac55ef3}{mutex} = P\-T\-H\-R\-E\-A\-D\-\_\-\-M\-U\-T\-E\-X\-\_\-\-I\-N\-I\-T\-I\-A\-L\-I\-Z\-E\-R
+\item 
+pthread\-\_\-cond\-\_\-t \hyperlink{main_8cpp_af517c6f38655c405ffb8e376e085ca96}{c} = P\-T\-H\-R\-E\-A\-D\-\_\-\-C\-O\-N\-D\-\_\-\-I\-N\-I\-T\-I\-A\-L\-I\-Z\-E\-R
+\item 
+vector$<$ \hyperlink{classball}{ball} $\ast$ $>$ \hyperlink{main_8cpp_a9dd5f82c2562266aacf631d8fdfdabfb}{q\-Message}
+\item 
+\hyperlink{classvec}{vec} $\ast$$\ast$ \hyperlink{main_8cpp_a928320ababf71cb4e89173e8a95d7c8f}{q\-Speed}
+\item 
+vector$<$ \hyperlink{classball}{ball} $\ast$ $>$ \hyperlink{main_8cpp_a2588329fdd8b7c9dd9ca14abe9fbcbf4}{balls}
+\end{DoxyCompactItemize}
+
+
+\subsection{Function Documentation}
+\hypertarget{main_8cpp_a5555059d04c82c6a596d560bfbe2c0d6}{\index{main.\-cpp@{main.\-cpp}!aspect\-Ratio@{aspect\-Ratio}}
+\index{aspect\-Ratio@{aspect\-Ratio}!main.cpp@{main.\-cpp}}
+\subsubsection[{aspect\-Ratio}]{\setlength{\rightskip}{0pt plus 5cm}void aspect\-Ratio (
+\begin{DoxyParamCaption}
+\item[{G\-Lfloat}]{width, }
+\item[{G\-Lfloat}]{height}
+\end{DoxyParamCaption}
+)}}\label{main_8cpp_a5555059d04c82c6a596d560bfbe2c0d6}
+\hypertarget{main_8cpp_a1e5b20fed15743656bb6d2e6a6ea6269}{\index{main.\-cpp@{main.\-cpp}!display@{display}}
+\index{display@{display}!main.cpp@{main.\-cpp}}
+\subsubsection[{display}]{\setlength{\rightskip}{0pt plus 5cm}void display (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}\label{main_8cpp_a1e5b20fed15743656bb6d2e6a6ea6269}
+\hypertarget{main_8cpp_a9185159b2ed7c037acb29e7ba9bc86f5}{\index{main.\-cpp@{main.\-cpp}!display\-Text@{display\-Text}}
+\index{display\-Text@{display\-Text}!main.cpp@{main.\-cpp}}
+\subsubsection[{display\-Text}]{\setlength{\rightskip}{0pt plus 5cm}void display\-Text (
+\begin{DoxyParamCaption}
+\item[{float}]{x, }
+\item[{float}]{y, }
+\item[{float}]{r, }
+\item[{float}]{g, }
+\item[{float}]{b, }
+\item[{const char $\ast$}]{string}
+\end{DoxyParamCaption}
+)}}\label{main_8cpp_a9185159b2ed7c037acb29e7ba9bc86f5}
+\hypertarget{main_8cpp_acb263e4c79618a895891d2d30a94119c}{\index{main.\-cpp@{main.\-cpp}!fun@{fun}}
+\index{fun@{fun}!main.cpp@{main.\-cpp}}
+\subsubsection[{fun}]{\setlength{\rightskip}{0pt plus 5cm}void$\ast$ fun (
+\begin{DoxyParamCaption}
+\item[{void $\ast$}]{arg}
+\end{DoxyParamCaption}
+)}}\label{main_8cpp_acb263e4c79618a895891d2d30a94119c}
+\hypertarget{main_8cpp_a50384e662606049b5c239913afa7d66e}{\index{main.\-cpp@{main.\-cpp}!init\-Balls@{init\-Balls}}
+\index{init\-Balls@{init\-Balls}!main.cpp@{main.\-cpp}}
+\subsubsection[{init\-Balls}]{\setlength{\rightskip}{0pt plus 5cm}void init\-Balls (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}\label{main_8cpp_a50384e662606049b5c239913afa7d66e}
+\hypertarget{main_8cpp_a358cd8442950f0382b04cdb0841a4e39}{\index{main.\-cpp@{main.\-cpp}!keypress@{keypress}}
+\index{keypress@{keypress}!main.cpp@{main.\-cpp}}
+\subsubsection[{keypress}]{\setlength{\rightskip}{0pt plus 5cm}void keypress (
+\begin{DoxyParamCaption}
+\item[{unsigned char}]{key, }
+\item[{int}]{x, }
+\item[{int}]{y}
+\end{DoxyParamCaption}
+)}}\label{main_8cpp_a358cd8442950f0382b04cdb0841a4e39}
+\hypertarget{main_8cpp_a3c04138a5bfe5d72780bb7e82a18e627}{\index{main.\-cpp@{main.\-cpp}!main@{main}}
+\index{main@{main}!main.cpp@{main.\-cpp}}
+\subsubsection[{main}]{\setlength{\rightskip}{0pt plus 5cm}int main (
+\begin{DoxyParamCaption}
+\item[{int}]{argc, }
+\item[{char $\ast$$\ast$}]{argv}
+\end{DoxyParamCaption}
+)}}\label{main_8cpp_a3c04138a5bfe5d72780bb7e82a18e627}
+\hypertarget{main_8cpp_ac76a5d78172a826cd6ee9512b89a86c0}{\index{main.\-cpp@{main.\-cpp}!mouse@{mouse}}
+\index{mouse@{mouse}!main.cpp@{main.\-cpp}}
+\subsubsection[{mouse}]{\setlength{\rightskip}{0pt plus 5cm}void mouse (
+\begin{DoxyParamCaption}
+\item[{int}]{button, }
+\item[{int}]{state, }
+\item[{int}]{x, }
+\item[{int}]{y}
+\end{DoxyParamCaption}
+)}}\label{main_8cpp_ac76a5d78172a826cd6ee9512b89a86c0}
+\hypertarget{main_8cpp_a0447aef09d3c4464e6f8d81340f3a4b0}{\index{main.\-cpp@{main.\-cpp}!reshape@{reshape}}
+\index{reshape@{reshape}!main.cpp@{main.\-cpp}}
+\subsubsection[{reshape}]{\setlength{\rightskip}{0pt plus 5cm}void reshape (
+\begin{DoxyParamCaption}
+\item[{G\-Lsizei}]{width, }
+\item[{G\-Lsizei}]{height}
+\end{DoxyParamCaption}
+)}}\label{main_8cpp_a0447aef09d3c4464e6f8d81340f3a4b0}
+\hypertarget{main_8cpp_a089b7398d06a65661d08354b2091265a}{\index{main.\-cpp@{main.\-cpp}!Timer@{Timer}}
+\index{Timer@{Timer}!main.cpp@{main.\-cpp}}
+\subsubsection[{Timer}]{\setlength{\rightskip}{0pt plus 5cm}void Timer (
+\begin{DoxyParamCaption}
+\item[{int}]{value}
+\end{DoxyParamCaption}
+)}}\label{main_8cpp_a089b7398d06a65661d08354b2091265a}
+\hypertarget{main_8cpp_a5eb179e09645dfb07c1de38710db0877}{\index{main.\-cpp@{main.\-cpp}!update\-Speed@{update\-Speed}}
+\index{update\-Speed@{update\-Speed}!main.cpp@{main.\-cpp}}
+\subsubsection[{update\-Speed}]{\setlength{\rightskip}{0pt plus 5cm}void update\-Speed (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}\label{main_8cpp_a5eb179e09645dfb07c1de38710db0877}
+
+
+\subsection{Variable Documentation}
+\hypertarget{main_8cpp_a2588329fdd8b7c9dd9ca14abe9fbcbf4}{\index{main.\-cpp@{main.\-cpp}!balls@{balls}}
+\index{balls@{balls}!main.cpp@{main.\-cpp}}
+\subsubsection[{balls}]{\setlength{\rightskip}{0pt plus 5cm}vector$<${\bf ball}$\ast$$>$ balls}}\label{main_8cpp_a2588329fdd8b7c9dd9ca14abe9fbcbf4}
+\hypertarget{main_8cpp_af517c6f38655c405ffb8e376e085ca96}{\index{main.\-cpp@{main.\-cpp}!c@{c}}
+\index{c@{c}!main.cpp@{main.\-cpp}}
+\subsubsection[{c}]{\setlength{\rightskip}{0pt plus 5cm}pthread\-\_\-cond\-\_\-t c = P\-T\-H\-R\-E\-A\-D\-\_\-\-C\-O\-N\-D\-\_\-\-I\-N\-I\-T\-I\-A\-L\-I\-Z\-E\-R}}\label{main_8cpp_af517c6f38655c405ffb8e376e085ca96}
+\hypertarget{main_8cpp_a1d39aac66e12dae50a24cd7a9100ef33}{\index{main.\-cpp@{main.\-cpp}!done@{done}}
+\index{done@{done}!main.cpp@{main.\-cpp}}
+\subsubsection[{done}]{\setlength{\rightskip}{0pt plus 5cm}bool done =0}}\label{main_8cpp_a1d39aac66e12dae50a24cd7a9100ef33}
+\hypertarget{main_8cpp_a0cc16c582fed3f969762a644b0508783}{\index{main.\-cpp@{main.\-cpp}!fullscr@{fullscr}}
+\index{fullscr@{fullscr}!main.cpp@{main.\-cpp}}
+\subsubsection[{fullscr}]{\setlength{\rightskip}{0pt plus 5cm}bool fullscr}}\label{main_8cpp_a0cc16c582fed3f969762a644b0508783}
+\hypertarget{main_8cpp_aa82664d9803a5fd0fcc96e27af429123}{\index{main.\-cpp@{main.\-cpp}!inst@{inst}}
+\index{inst@{inst}!main.cpp@{main.\-cpp}}
+\subsubsection[{inst}]{\setlength{\rightskip}{0pt plus 5cm}bool inst =0}}\label{main_8cpp_aa82664d9803a5fd0fcc96e27af429123}
+\hypertarget{main_8cpp_a305555cd1a76d17cda7f459ccd7ef5ad}{\index{main.\-cpp@{main.\-cpp}!max\-Radius@{max\-Radius}}
+\index{max\-Radius@{max\-Radius}!main.cpp@{main.\-cpp}}
+\subsubsection[{max\-Radius}]{\setlength{\rightskip}{0pt plus 5cm}G\-Lfloat max\-Radius = 0.\-15f}}\label{main_8cpp_a305555cd1a76d17cda7f459ccd7ef5ad}
+\hypertarget{main_8cpp_a64881c5f5f42c13aa0deb1dc0d7a8b26}{\index{main.\-cpp@{main.\-cpp}!menu@{menu}}
+\index{menu@{menu}!main.cpp@{main.\-cpp}}
+\subsubsection[{menu}]{\setlength{\rightskip}{0pt plus 5cm}bool menu =0}}\label{main_8cpp_a64881c5f5f42c13aa0deb1dc0d7a8b26}
+\hypertarget{main_8cpp_a4acff8232e4aec9cd5c6dc200ac55ef3}{\index{main.\-cpp@{main.\-cpp}!mutex@{mutex}}
+\index{mutex@{mutex}!main.cpp@{main.\-cpp}}
+\subsubsection[{mutex}]{\setlength{\rightskip}{0pt plus 5cm}pthread\-\_\-mutex\-\_\-t mutex = P\-T\-H\-R\-E\-A\-D\-\_\-\-M\-U\-T\-E\-X\-\_\-\-I\-N\-I\-T\-I\-A\-L\-I\-Z\-E\-R}}\label{main_8cpp_a4acff8232e4aec9cd5c6dc200ac55ef3}
+\hypertarget{main_8cpp_a7174422b37ed89c1a985767c825a2c76}{\index{main.\-cpp@{main.\-cpp}!my\-Window@{my\-Window}}
+\index{my\-Window@{my\-Window}!main.cpp@{main.\-cpp}}
+\subsubsection[{my\-Window}]{\setlength{\rightskip}{0pt plus 5cm}{\bf window}$\ast$ my\-Window}}\label{main_8cpp_a7174422b37ed89c1a985767c825a2c76}
+\hypertarget{main_8cpp_aa43278ae0d6f40b1b2c1f25f2889b564}{\index{main.\-cpp@{main.\-cpp}!num\-Balls@{num\-Balls}}
+\index{num\-Balls@{num\-Balls}!main.cpp@{main.\-cpp}}
+\subsubsection[{num\-Balls}]{\setlength{\rightskip}{0pt plus 5cm}int num\-Balls}}\label{main_8cpp_aa43278ae0d6f40b1b2c1f25f2889b564}
+\hypertarget{main_8cpp_a1656129c4a4fd8809254194f08f0ac70}{\index{main.\-cpp@{main.\-cpp}!paused@{paused}}
+\index{paused@{paused}!main.cpp@{main.\-cpp}}
+\subsubsection[{paused}]{\setlength{\rightskip}{0pt plus 5cm}bool paused =0}}\label{main_8cpp_a1656129c4a4fd8809254194f08f0ac70}
+\hypertarget{main_8cpp_a9dd5f82c2562266aacf631d8fdfdabfb}{\index{main.\-cpp@{main.\-cpp}!q\-Message@{q\-Message}}
+\index{q\-Message@{q\-Message}!main.cpp@{main.\-cpp}}
+\subsubsection[{q\-Message}]{\setlength{\rightskip}{0pt plus 5cm}vector$<${\bf ball}$\ast$$>$ q\-Message}}\label{main_8cpp_a9dd5f82c2562266aacf631d8fdfdabfb}
+\hypertarget{main_8cpp_a928320ababf71cb4e89173e8a95d7c8f}{\index{main.\-cpp@{main.\-cpp}!q\-Speed@{q\-Speed}}
+\index{q\-Speed@{q\-Speed}!main.cpp@{main.\-cpp}}
+\subsubsection[{q\-Speed}]{\setlength{\rightskip}{0pt plus 5cm}{\bf vec}$\ast$ $\ast$ q\-Speed}}\label{main_8cpp_a928320ababf71cb4e89173e8a95d7c8f}
+\hypertarget{main_8cpp_a436016ce2b3c775de5b9e142b5717e0a}{\index{main.\-cpp@{main.\-cpp}!refresh\-Millis@{refresh\-Millis}}
+\index{refresh\-Millis@{refresh\-Millis}!main.cpp@{main.\-cpp}}
+\subsubsection[{refresh\-Millis}]{\setlength{\rightskip}{0pt plus 5cm}int refresh\-Millis = 10}}\label{main_8cpp_a436016ce2b3c775de5b9e142b5717e0a}
+\hypertarget{main_8cpp_ae3e85628d413435fbcfb27a271a41d79}{\index{main.\-cpp@{main.\-cpp}!threads@{threads}}
+\index{threads@{threads}!main.cpp@{main.\-cpp}}
+\subsubsection[{threads}]{\setlength{\rightskip}{0pt plus 5cm}pthread\-\_\-t$\ast$ threads}}\label{main_8cpp_ae3e85628d413435fbcfb27a271a41d79}
+\hypertarget{main_8cpp_adaab1f0becf4a2155e2bdd69ab61bb02}{\index{main.\-cpp@{main.\-cpp}!x\-Max@{x\-Max}}
+\index{x\-Max@{x\-Max}!main.cpp@{main.\-cpp}}
+\subsubsection[{x\-Max}]{\setlength{\rightskip}{0pt plus 5cm}G\-Ldouble x\-Max =1.\-33f}}\label{main_8cpp_adaab1f0becf4a2155e2bdd69ab61bb02}
+\hypertarget{main_8cpp_ad6366d4aac0cafadc290ce8ff0f8b4ef}{\index{main.\-cpp@{main.\-cpp}!x\-Min@{x\-Min}}
+\index{x\-Min@{x\-Min}!main.cpp@{main.\-cpp}}
+\subsubsection[{x\-Min}]{\setlength{\rightskip}{0pt plus 5cm}G\-Ldouble x\-Min =-\/1.\-33f}}\label{main_8cpp_ad6366d4aac0cafadc290ce8ff0f8b4ef}
+\hypertarget{main_8cpp_a3ee38fcdfd8c59d2116bea0a2b7da32f}{\index{main.\-cpp@{main.\-cpp}!y\-Max@{y\-Max}}
+\index{y\-Max@{y\-Max}!main.cpp@{main.\-cpp}}
+\subsubsection[{y\-Max}]{\setlength{\rightskip}{0pt plus 5cm}G\-Ldouble y\-Max =1.\-0f}}\label{main_8cpp_a3ee38fcdfd8c59d2116bea0a2b7da32f}
+\hypertarget{main_8cpp_a47449edaeffb2749183e052b5efe2553}{\index{main.\-cpp@{main.\-cpp}!y\-Min@{y\-Min}}
+\index{y\-Min@{y\-Min}!main.cpp@{main.\-cpp}}
+\subsubsection[{y\-Min}]{\setlength{\rightskip}{0pt plus 5cm}G\-Ldouble y\-Min =-\/1.\-0f}}\label{main_8cpp_a47449edaeffb2749183e052b5efe2553}

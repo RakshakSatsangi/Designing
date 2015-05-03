@@ -1,0 +1,156 @@
+\indexentry{ball@{ball}|hyperpage}{5}
+\indexentry{ball@{ball}!ball@{ball}|hyperpage}{5}
+\indexentry{ball@{ball}!ball@{ball}|hyperpage}{5}
+\indexentry{ball@{ball}!ball\discretionary {-}{}{}X\discretionary {-}{}{}Max@{ball\discretionary {-}{}{}X\discretionary {-}{}{}Max}|hyperpage}{5}
+\indexentry{ball\discretionary {-}{}{}X\discretionary {-}{}{}Max@{ball\discretionary {-}{}{}X\discretionary {-}{}{}Max}!ball@{ball}|hyperpage}{5}
+\indexentry{ball@{ball}!ball\discretionary {-}{}{}X\discretionary {-}{}{}Min@{ball\discretionary {-}{}{}X\discretionary {-}{}{}Min}|hyperpage}{5}
+\indexentry{ball\discretionary {-}{}{}X\discretionary {-}{}{}Min@{ball\discretionary {-}{}{}X\discretionary {-}{}{}Min}!ball@{ball}|hyperpage}{5}
+\indexentry{ball@{ball}!ball\discretionary {-}{}{}Y\discretionary {-}{}{}Max@{ball\discretionary {-}{}{}Y\discretionary {-}{}{}Max}|hyperpage}{5}
+\indexentry{ball\discretionary {-}{}{}Y\discretionary {-}{}{}Max@{ball\discretionary {-}{}{}Y\discretionary {-}{}{}Max}!ball@{ball}|hyperpage}{5}
+\indexentry{ball@{ball}!ball\discretionary {-}{}{}Y\discretionary {-}{}{}Min@{ball\discretionary {-}{}{}Y\discretionary {-}{}{}Min}|hyperpage}{5}
+\indexentry{ball\discretionary {-}{}{}Y\discretionary {-}{}{}Min@{ball\discretionary {-}{}{}Y\discretionary {-}{}{}Min}!ball@{ball}|hyperpage}{5}
+\indexentry{ball@{ball}!col\discretionary {-}{}{}B@{col\discretionary {-}{}{}B}|hyperpage}{6}
+\indexentry{col\discretionary {-}{}{}B@{col\discretionary {-}{}{}B}!ball@{ball}|hyperpage}{6}
+\indexentry{ball@{ball}!col\discretionary {-}{}{}G@{col\discretionary {-}{}{}G}|hyperpage}{6}
+\indexentry{col\discretionary {-}{}{}G@{col\discretionary {-}{}{}G}!ball@{ball}|hyperpage}{6}
+\indexentry{ball@{ball}!col\discretionary {-}{}{}R@{col\discretionary {-}{}{}R}|hyperpage}{6}
+\indexentry{col\discretionary {-}{}{}R@{col\discretionary {-}{}{}R}!ball@{ball}|hyperpage}{6}
+\indexentry{ball@{ball}!index@{index}|hyperpage}{6}
+\indexentry{index@{index}!ball@{ball}|hyperpage}{6}
+\indexentry{ball@{ball}!is\discretionary {-}{}{}Collide@{is\discretionary {-}{}{}Collide}|hyperpage}{6}
+\indexentry{is\discretionary {-}{}{}Collide@{is\discretionary {-}{}{}Collide}!ball@{ball}|hyperpage}{6}
+\indexentry{ball@{ball}!msgv@{msgv}|hyperpage}{6}
+\indexentry{msgv@{msgv}!ball@{ball}|hyperpage}{6}
+\indexentry{ball@{ball}!pv@{pv}|hyperpage}{6}
+\indexentry{pv@{pv}!ball@{ball}|hyperpage}{6}
+\indexentry{ball@{ball}!r@{r}|hyperpage}{6}
+\indexentry{r@{r}!ball@{ball}|hyperpage}{6}
+\indexentry{ball@{ball}!radius@{radius}|hyperpage}{6}
+\indexentry{radius@{radius}!ball@{ball}|hyperpage}{6}
+\indexentry{ball@{ball}!v@{v}|hyperpage}{6}
+\indexentry{v@{v}!ball@{ball}|hyperpage}{6}
+\indexentry{vec@{vec}|hyperpage}{6}
+\indexentry{vec@{vec}!vec@{vec}|hyperpage}{6}
+\indexentry{vec@{vec}!vec@{vec}|hyperpage}{6}
+\indexentry{vec@{vec}!add@{add}|hyperpage}{6}
+\indexentry{add@{add}!vec@{vec}|hyperpage}{6}
+\indexentry{vec@{vec}!dist@{dist}|hyperpage}{7}
+\indexentry{dist@{dist}!vec@{vec}|hyperpage}{7}
+\indexentry{vec@{vec}!dot@{dot}|hyperpage}{7}
+\indexentry{dot@{dot}!vec@{vec}|hyperpage}{7}
+\indexentry{vec@{vec}!length@{length}|hyperpage}{7}
+\indexentry{length@{length}!vec@{vec}|hyperpage}{7}
+\indexentry{vec@{vec}!scale@{scale}|hyperpage}{7}
+\indexentry{scale@{scale}!vec@{vec}|hyperpage}{7}
+\indexentry{vec@{vec}!subtract@{subtract}|hyperpage}{7}
+\indexentry{subtract@{subtract}!vec@{vec}|hyperpage}{7}
+\indexentry{vec@{vec}!x\discretionary {-}{}{}Coordinate@{x\discretionary {-}{}{}Coordinate}|hyperpage}{7}
+\indexentry{x\discretionary {-}{}{}Coordinate@{x\discretionary {-}{}{}Coordinate}!vec@{vec}|hyperpage}{7}
+\indexentry{vec@{vec}!y\discretionary {-}{}{}Coordinate@{y\discretionary {-}{}{}Coordinate}|hyperpage}{7}
+\indexentry{y\discretionary {-}{}{}Coordinate@{y\discretionary {-}{}{}Coordinate}!vec@{vec}|hyperpage}{7}
+\indexentry{window@{window}|hyperpage}{7}
+\indexentry{window@{window}!window@{window}|hyperpage}{7}
+\indexentry{window@{window}!window@{window}|hyperpage}{7}
+\indexentry{window@{window}!init\discretionary {-}{}{}Window@{init\discretionary {-}{}{}Window}|hyperpage}{7}
+\indexentry{init\discretionary {-}{}{}Window@{init\discretionary {-}{}{}Window}!window@{window}|hyperpage}{7}
+\indexentry{window@{window}!reshape\discretionary {-}{}{}Window@{reshape\discretionary {-}{}{}Window}|hyperpage}{7}
+\indexentry{reshape\discretionary {-}{}{}Window@{reshape\discretionary {-}{}{}Window}!window@{window}|hyperpage}{7}
+\indexentry{window@{window}!title@{title}|hyperpage}{7}
+\indexentry{title@{title}!window@{window}|hyperpage}{7}
+\indexentry{window@{window}!window\discretionary {-}{}{}Height@{window\discretionary {-}{}{}Height}|hyperpage}{8}
+\indexentry{window\discretionary {-}{}{}Height@{window\discretionary {-}{}{}Height}!window@{window}|hyperpage}{8}
+\indexentry{window@{window}!window\discretionary {-}{}{}Pos\discretionary {-}{}{}X@{window\discretionary {-}{}{}Pos\discretionary {-}{}{}X}|hyperpage}{8}
+\indexentry{window\discretionary {-}{}{}Pos\discretionary {-}{}{}X@{window\discretionary {-}{}{}Pos\discretionary {-}{}{}X}!window@{window}|hyperpage}{8}
+\indexentry{window@{window}!window\discretionary {-}{}{}Pos\discretionary {-}{}{}Y@{window\discretionary {-}{}{}Pos\discretionary {-}{}{}Y}|hyperpage}{8}
+\indexentry{window\discretionary {-}{}{}Pos\discretionary {-}{}{}Y@{window\discretionary {-}{}{}Pos\discretionary {-}{}{}Y}!window@{window}|hyperpage}{8}
+\indexentry{window@{window}!window\discretionary {-}{}{}Width@{window\discretionary {-}{}{}Width}|hyperpage}{8}
+\indexentry{window\discretionary {-}{}{}Width@{window\discretionary {-}{}{}Width}!window@{window}|hyperpage}{8}
+\indexentry{ball.\discretionary {-}{}{}cpp@{ball.\discretionary {-}{}{}cpp}|hyperpage}{9}
+\indexentry{ball.\discretionary {-}{}{}h@{ball.\discretionary {-}{}{}h}|hyperpage}{9}
+\indexentry{gui.\discretionary {-}{}{}cpp@{gui.\discretionary {-}{}{}cpp}|hyperpage}{10}
+\indexentry{gui.\discretionary {-}{}{}cpp@{gui.\discretionary {-}{}{}cpp}!P\discretionary {-}{}{}I@{P\discretionary {-}{}{}I}|hyperpage}{10}
+\indexentry{P\discretionary {-}{}{}I@{P\discretionary {-}{}{}I}!gui.cpp@{gui.\discretionary {-}{}{}cpp}|hyperpage}{10}
+\indexentry{gui.\discretionary {-}{}{}cpp@{gui.\discretionary {-}{}{}cpp}!Draw\discretionary {-}{}{}Circle@{Draw\discretionary {-}{}{}Circle}|hyperpage}{10}
+\indexentry{Draw\discretionary {-}{}{}Circle@{Draw\discretionary {-}{}{}Circle}!gui.cpp@{gui.\discretionary {-}{}{}cpp}|hyperpage}{10}
+\indexentry{gui.\discretionary {-}{}{}cpp@{gui.\discretionary {-}{}{}cpp}!init\discretionary {-}{}{}G\discretionary {-}{}{}L@{init\discretionary {-}{}{}G\discretionary {-}{}{}L}|hyperpage}{10}
+\indexentry{init\discretionary {-}{}{}G\discretionary {-}{}{}L@{init\discretionary {-}{}{}G\discretionary {-}{}{}L}!gui.cpp@{gui.\discretionary {-}{}{}cpp}|hyperpage}{10}
+\indexentry{gui.\discretionary {-}{}{}cpp@{gui.\discretionary {-}{}{}cpp}!angle@{angle}|hyperpage}{10}
+\indexentry{angle@{angle}!gui.cpp@{gui.\discretionary {-}{}{}cpp}|hyperpage}{10}
+\indexentry{gui.\discretionary {-}{}{}h@{gui.\discretionary {-}{}{}h}|hyperpage}{11}
+\indexentry{gui.\discretionary {-}{}{}h@{gui.\discretionary {-}{}{}h}!Draw\discretionary {-}{}{}Circle@{Draw\discretionary {-}{}{}Circle}|hyperpage}{11}
+\indexentry{Draw\discretionary {-}{}{}Circle@{Draw\discretionary {-}{}{}Circle}!gui.h@{gui.\discretionary {-}{}{}h}|hyperpage}{11}
+\indexentry{gui.\discretionary {-}{}{}h@{gui.\discretionary {-}{}{}h}!init\discretionary {-}{}{}G\discretionary {-}{}{}L@{init\discretionary {-}{}{}G\discretionary {-}{}{}L}|hyperpage}{11}
+\indexentry{init\discretionary {-}{}{}G\discretionary {-}{}{}L@{init\discretionary {-}{}{}G\discretionary {-}{}{}L}!gui.h@{gui.\discretionary {-}{}{}h}|hyperpage}{11}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{11}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!aspect\discretionary {-}{}{}Ratio@{aspect\discretionary {-}{}{}Ratio}|hyperpage}{12}
+\indexentry{aspect\discretionary {-}{}{}Ratio@{aspect\discretionary {-}{}{}Ratio}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{12}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!display@{display}|hyperpage}{12}
+\indexentry{display@{display}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{12}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!display\discretionary {-}{}{}Text@{display\discretionary {-}{}{}Text}|hyperpage}{12}
+\indexentry{display\discretionary {-}{}{}Text@{display\discretionary {-}{}{}Text}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{12}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!fun@{fun}|hyperpage}{12}
+\indexentry{fun@{fun}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{12}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!init\discretionary {-}{}{}Balls@{init\discretionary {-}{}{}Balls}|hyperpage}{12}
+\indexentry{init\discretionary {-}{}{}Balls@{init\discretionary {-}{}{}Balls}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{12}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!keypress@{keypress}|hyperpage}{12}
+\indexentry{keypress@{keypress}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{12}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!main@{main}|hyperpage}{12}
+\indexentry{main@{main}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{12}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!mouse@{mouse}|hyperpage}{12}
+\indexentry{mouse@{mouse}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{12}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!reshape@{reshape}|hyperpage}{12}
+\indexentry{reshape@{reshape}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{12}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!Timer@{Timer}|hyperpage}{12}
+\indexentry{Timer@{Timer}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{12}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!update\discretionary {-}{}{}Speed@{update\discretionary {-}{}{}Speed}|hyperpage}{12}
+\indexentry{update\discretionary {-}{}{}Speed@{update\discretionary {-}{}{}Speed}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{12}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!balls@{balls}|hyperpage}{12}
+\indexentry{balls@{balls}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{12}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!c@{c}|hyperpage}{12}
+\indexentry{c@{c}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{12}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!done@{done}|hyperpage}{12}
+\indexentry{done@{done}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{12}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!fullscr@{fullscr}|hyperpage}{13}
+\indexentry{fullscr@{fullscr}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{13}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!inst@{inst}|hyperpage}{13}
+\indexentry{inst@{inst}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{13}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!max\discretionary {-}{}{}Radius@{max\discretionary {-}{}{}Radius}|hyperpage}{13}
+\indexentry{max\discretionary {-}{}{}Radius@{max\discretionary {-}{}{}Radius}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{13}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!menu@{menu}|hyperpage}{13}
+\indexentry{menu@{menu}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{13}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!mutex@{mutex}|hyperpage}{13}
+\indexentry{mutex@{mutex}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{13}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!my\discretionary {-}{}{}Window@{my\discretionary {-}{}{}Window}|hyperpage}{13}
+\indexentry{my\discretionary {-}{}{}Window@{my\discretionary {-}{}{}Window}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{13}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!num\discretionary {-}{}{}Balls@{num\discretionary {-}{}{}Balls}|hyperpage}{13}
+\indexentry{num\discretionary {-}{}{}Balls@{num\discretionary {-}{}{}Balls}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{13}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!paused@{paused}|hyperpage}{13}
+\indexentry{paused@{paused}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{13}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!q\discretionary {-}{}{}Message@{q\discretionary {-}{}{}Message}|hyperpage}{13}
+\indexentry{q\discretionary {-}{}{}Message@{q\discretionary {-}{}{}Message}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{13}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!q\discretionary {-}{}{}Speed@{q\discretionary {-}{}{}Speed}|hyperpage}{13}
+\indexentry{q\discretionary {-}{}{}Speed@{q\discretionary {-}{}{}Speed}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{13}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!refresh\discretionary {-}{}{}Millis@{refresh\discretionary {-}{}{}Millis}|hyperpage}{13}
+\indexentry{refresh\discretionary {-}{}{}Millis@{refresh\discretionary {-}{}{}Millis}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{13}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!threads@{threads}|hyperpage}{13}
+\indexentry{threads@{threads}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{13}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!x\discretionary {-}{}{}Max@{x\discretionary {-}{}{}Max}|hyperpage}{13}
+\indexentry{x\discretionary {-}{}{}Max@{x\discretionary {-}{}{}Max}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{13}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!x\discretionary {-}{}{}Min@{x\discretionary {-}{}{}Min}|hyperpage}{13}
+\indexentry{x\discretionary {-}{}{}Min@{x\discretionary {-}{}{}Min}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{13}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!y\discretionary {-}{}{}Max@{y\discretionary {-}{}{}Max}|hyperpage}{13}
+\indexentry{y\discretionary {-}{}{}Max@{y\discretionary {-}{}{}Max}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{13}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!y\discretionary {-}{}{}Min@{y\discretionary {-}{}{}Min}|hyperpage}{13}
+\indexentry{y\discretionary {-}{}{}Min@{y\discretionary {-}{}{}Min}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{13}
+\indexentry{physics.\discretionary {-}{}{}cpp@{physics.\discretionary {-}{}{}cpp}|hyperpage}{13}
+\indexentry{physics.\discretionary {-}{}{}cpp@{physics.\discretionary {-}{}{}cpp}!coll\discretionary {-}{}{}Balls@{coll\discretionary {-}{}{}Balls}|hyperpage}{14}
+\indexentry{coll\discretionary {-}{}{}Balls@{coll\discretionary {-}{}{}Balls}!physics.cpp@{physics.\discretionary {-}{}{}cpp}|hyperpage}{14}
+\indexentry{physics.\discretionary {-}{}{}cpp@{physics.\discretionary {-}{}{}cpp}!coll\discretionary {-}{}{}Wall@{coll\discretionary {-}{}{}Wall}|hyperpage}{14}
+\indexentry{coll\discretionary {-}{}{}Wall@{coll\discretionary {-}{}{}Wall}!physics.cpp@{physics.\discretionary {-}{}{}cpp}|hyperpage}{14}
+\indexentry{physics.\discretionary {-}{}{}h@{physics.\discretionary {-}{}{}h}|hyperpage}{14}
+\indexentry{physics.\discretionary {-}{}{}h@{physics.\discretionary {-}{}{}h}!coll\discretionary {-}{}{}Balls@{coll\discretionary {-}{}{}Balls}|hyperpage}{14}
+\indexentry{coll\discretionary {-}{}{}Balls@{coll\discretionary {-}{}{}Balls}!physics.h@{physics.\discretionary {-}{}{}h}|hyperpage}{14}
+\indexentry{physics.\discretionary {-}{}{}h@{physics.\discretionary {-}{}{}h}!coll\discretionary {-}{}{}Wall@{coll\discretionary {-}{}{}Wall}|hyperpage}{14}
+\indexentry{coll\discretionary {-}{}{}Wall@{coll\discretionary {-}{}{}Wall}!physics.h@{physics.\discretionary {-}{}{}h}|hyperpage}{14}
+\indexentry{window.\discretionary {-}{}{}cpp@{window.\discretionary {-}{}{}cpp}|hyperpage}{14}
+\indexentry{window.\discretionary {-}{}{}h@{window.\discretionary {-}{}{}h}|hyperpage}{15}
